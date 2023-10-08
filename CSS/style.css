@@ -220,7 +220,7 @@ footer {
 
     @media only screen and (max-width: 395px) {
         #wrapper {
-            width: 300px ;
+            width: 350px ;
         }
     
         #calculate, #conversion {
